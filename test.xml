@@ -1,0 +1,18 @@
+        <item>
+            <title>Password Protected Remote File</title>
+            <passreq>VGhpc0lzVGhlUGFzc3dvcmR8aHR0cDovL3d3dy5leGFtcGxlLmNvbS9zdWJtZW51LnhtbA==</passreq>YmF6emExMjM=
+        </item>
+	<item>
+            <title>movies</title>
+            <passreq>MTM1N3xmaWxlOi8vbW92aWVzLnhtbA==</passreq>
+        </item>
+		<dir>
+<title>Trending TV Shows</title>
+<trakt>https://api.trakt.tv/shows/trending</trakt>
+</dir>
+ 
+	
+
+
+
+
