@@ -1,7 +1,17 @@
+<plugin>
+<name>Bt Sport 1</name>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/5877?checkedby:hlscat.com</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<summary></summary>
+</plugin>
+
+
+
+
 #EXTM3U
 #PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1
-http://wweraw.ddns.net:8080/live:mtg_2406_1010101/live:mtg_2406_1010101/5877?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1
 http://links.iptvlogin.com:80/live/hpF0vVgdhy7AuU/T-y8LPn7zWJK/69.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1
